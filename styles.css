@@ -11,9 +11,16 @@
 	display: none;
 }
 
-.bigger {
+#game-area {
 	display: flex;
-	height: 1000px;
-	width: 400px;
-	background-color: pink;
+}
+
+
+
+.box {
+	height: 200px;
+	width: 200px;
+	background-color: red;
+	margin: 50px;
+	cursor: pointer;
 }
