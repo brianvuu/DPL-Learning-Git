@@ -11,3 +11,9 @@
 	display: none;
 }
 
+.bigger {
+	display: flex;
+	height: 1000px;
+	width: 400px;
+	background-color: pink;
+}
